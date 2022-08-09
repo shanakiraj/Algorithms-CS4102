@@ -1,2 +1,2 @@
 # Algorithms-CS4102
-programming assignments in Algorithms
+The programming and other assignments for this course can be found at https://uva-cs.github.io/cs4102-s22/homework/
